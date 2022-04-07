@@ -130,6 +130,8 @@ class ViewController: UIViewController {
         changeHeartIcon()
     }
     
+    var tessstt = 2
+    
     func changeMusic() {
         imageCoverImage.image = arrOfMusic[currMusic].image
         imageBackground.image = arrOfMusic[currMusic].image
